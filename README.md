@@ -1,6 +1,6 @@
 # survey_app
 
-This is a survey from app,
+This is a survey form app,
 
 it will take in user's input in different ways.
 
